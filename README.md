@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/SCQmR0B.jpg"  alt="Coding"></img>
+<img src="https://i.imgur.com/HHXfzwP.png" height="300px"  alt="Coding"></img>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhirendra193) 
